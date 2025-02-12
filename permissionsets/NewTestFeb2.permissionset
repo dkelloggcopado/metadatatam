@@ -15,6 +15,11 @@
         <field>NewFeb2__c.Field3__c</field>
         <readable>true</readable>
     </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>NewFeb2__c.Field4__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
     <hasActivationRequired>false</hasActivationRequired>
     <label>NewTestFeb2</label>
 </PermissionSet>
